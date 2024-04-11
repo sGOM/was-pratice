@@ -1,3 +1,5 @@
+# WAS pratice
+
 WAS가 작동하는 방식을 간단히 구현하여 이해를 더 함
 
 API SPEC
